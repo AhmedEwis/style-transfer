@@ -14,3 +14,5 @@
 ```bash
 docker-compose up -d
 ```
+### Test
+https://share.streamlit.io/ahmedewis/style-transfer/main.py
